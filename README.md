@@ -33,5 +33,5 @@ I build scalable, high-throughput data platforms that eliminate performance bott
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- 💼 **LinkedIn:** [www.linkedin.com/in/soja-abraham-soco](www.linkedin.com/in/soja-abraham-soco)
 - ✉️ **Email:** [abraham.sojajithu@gmail.com](mailto:abraham.sojajithu@gmail.com)
